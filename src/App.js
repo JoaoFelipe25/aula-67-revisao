@@ -8,6 +8,7 @@ import UseEffectClass from './components/UseEffectClass';
 import UseEffectFunction from './components/UseEffectFunction';
 import TodoList from './components/TodoList/TodoList';
 
+//revisao
 function App() {
   return (
     <div className="App">
